@@ -46,7 +46,7 @@ int main(int argc, char *argv[]) {
 	RUN_FIXTURE(numbers)
 	RUN_FIXTURE(numbers2)
 	
-	
+	return 0;
 }
 
 
